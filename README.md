@@ -5,6 +5,8 @@ Description:
 **FSOCIETY SERVICE BOT** - A multifunctional program for **STEAM** and **CS:GO**.
 Let's go through the functionality. The software has 7 tabs + 8th information about the developers.
 
+1) Download   **FSOCIETY SERVICE BOT [v1.2.0.0](https://github.com/despa1r1337/FSOCIETY-SERVICE-BOT/releases)**
+
 ## Accounts
 ![GitHub Logo](img/Screenshot_1.png)
 - Tab **Accounts** -
