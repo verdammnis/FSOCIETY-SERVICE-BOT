@@ -183,3 +183,11 @@ Bot Settings:
 **program information** / **developers** / **libraries**
 
 
+# Credits
+
+@nemsikz  (ideas)
+
+@getb4ck (coding)
+
+
+
