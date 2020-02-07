@@ -33,6 +33,8 @@ Buttons:
 ![GitHub Logo](img/Screenshot_10.png)
 
 ![GitHub Logo](img/Screenshot_11.png)
+
+![GitHub Logo](img/Screenshot_13.png)
 - Tab **Targets**
 Here we have work with goals.
 In the left tab, add accounts from a common database that will be used in this tab.
@@ -122,6 +124,7 @@ Buttons:
 
 
 -**Tasks tab** -
+![GitHub Logo](img/Screenshot_12.png)
 Here are various tools that promote the STEAM profile / group.
 In the left tab, add accounts from a common database, which (or for which) will be used in this tab.
 Buttons:
