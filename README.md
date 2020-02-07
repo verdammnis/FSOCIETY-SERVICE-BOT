@@ -124,10 +124,11 @@ Buttons:
 
 
 -**Tasks tab** -
-![GitHub Logo](img/Screenshot_12.png)
 Here are various tools that promote the STEAM profile / group.
 In the left tab, add accounts from a common database, which (or for which) will be used in this tab.
 Buttons:
+
+![GitHub Logo](img/Screenshot_12.png)
 
 **Add task - Add a task.**
 
