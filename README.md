@@ -28,6 +28,11 @@ Buttons:
 ## Targets
 ![GitHub Logo](img/Screenshot_2.png)
 
+![GitHub Logo](img/Screenshot_9.png)
+
+![GitHub Logo](img/Screenshot_10.png)
+
+![GitHub Logo](img/Screenshot_11.png)
 - Tab **Targets**
 Here we have work with goals.
 In the left tab, add accounts from a common database that will be used in this tab.
@@ -44,11 +49,13 @@ Checkboxes:
 
 Buttons:
 
-**Add target** - Add target to reportbot / like boat.
+**Add target** - Add target to reportbot / commendbot bot.
 
 **Delete target**- Delete the target.
 
 **Target's summary** - Get information on actions to do this. (The total number of submitted reports / likes in the CSGO profile | Last successful action)
+
+**Get last match stats** - - Information about the last match of the player, so as not to check the demo (if the score is 50/7, then, of course, you can safely report) ( works if: the profile is not hidden, game activity is not hidden.)
 
 **Open Steam Profile** - Open STEAM profile. Resolve by login.
 
