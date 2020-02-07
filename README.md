@@ -7,6 +7,7 @@ Let's go through the functionality. The software has 7 tabs + 8th information ab
 
 Download   **FSOCIETY SERVICE BOT [v1.2.0.0](https://github.com/despa1r1337/FSOCIETY-SERVICE-BOT/releases)**
 
+**How to find/get for Reportbot and Commendbot [ServerID](https://github.com/despa1r1337/FSOCIETY-SERVICE-BOT/wiki/ServerID)**
 ## Accounts
 ![GitHub Logo](img/Screenshot_1.png)
 - Tab **Accounts** -
@@ -66,6 +67,8 @@ Buttons:
 **START REPORT BOT** - Start a reportbot on the target.
 
 **START COMMEND BOT** - Launch a commendbot on a target.
+
+
 
 ## Games
 ![GitHub Logo](img/Screenshot_3.png)
