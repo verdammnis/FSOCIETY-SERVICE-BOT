@@ -7,6 +7,8 @@ Let's go through the functionality. The software has 7 tabs + 8th information ab
 
 Download   **FSOCIETY SERVICE BOT [v1.2.0.0](https://github.com/despa1r1337/FSOCIETY-SERVICE-BOT/releases)**
 
+**Please view the [Changelog](./CHANGELOG.md) for a list of changes.**
+
 **How to find/get for Reportbot and Commendbot [ServerID](https://github.com/despa1r1337/FSOCIETY-SERVICE-BOT/wiki/ServerID)**
 ## Accounts
 ![GitHub Logo](img/Screenshot_1.png)
